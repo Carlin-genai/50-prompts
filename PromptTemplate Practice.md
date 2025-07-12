@@ -162,75 +162,35 @@ Client Query: “What does Cinespa do?”
 
 ###### Explain Cinespa’s home theater services in simple terms.
 
-
-
-######  	Cinespa designs custom home theaters with premium audio, 4K projection, and smart controls—like a private cinema tailored to your space.
-
-##### 
+###### 
 
 ##### 2\. Summarization:
 
-###### Summarize the following information about Cinespa in \[5] bullet points, ensuring:
+###### Summarize the following information about Cinespa in \[5] bullet points:
 
-###### 
-
-######  	- Home Automation Excellence: Detail our smart control systems with technical specifics
-
-######  	- Immersive Audio-Visual: Cover 3D audio formats and visual technologies
-
-######  	- Seamless Integration: Explain how systems work together
-
-######  	- Client-Centric Service: Highlight your white-glove approach
-
-######  	- Ongoing Support: Mention post-installation care
+###### &nbsp;	Cinespa is a luxury technology integrator creating personalized smart homes and immersive entertainment spaces. We combine award-winning automation systems, cinematic audio-visual technologies, and white-glove concierge services to transform living environments.
 
 
+
+######  	
 
 ##### 3\. Paraphrasing
 
+###### Rewrite this sentence in your own words
+
 ###### Cinespa delivers premium home automation and theater solutions.
-
-###### 
-
-###### Rephrased:
-
-###### Cinespa crafts seamless, luxury smart living experiences through cutting-edge home automation and bespoke entertainment systems.
 
 ##### 
 
 ##### 4\. Definition Request
 
-###### Question:
-
 ###### What does Cinespa specialize in?
-
-###### 
-
-###### Response:
-
-###### Cinespa is a luxury technology integrator creating personalized smart homes and immersive entertainment spaces. We combine award-winning automation systems, cinematic audio-visual technologies, and white-glove concierge services to transform living environments.
 
 
 
 ##### 5\. Comparison
 
-###### Question:
-
-###### How does Cinespa differ from other home tech companies?
-
-###### 
-
-###### Answer:
-
-###### Unlike standard providers, Cinespa offers:
-
-######  	- Tailored Integration: Technology designed around your lifestyle, not pre-packaged systems
-
-######  	- End-to-End Service: From initial design to lifelong maintenance by certified experts
-
-######  	- Curated Quality: Exclusive partnerships with world-leading luxury brands
-
-######  	- Future-Ready Philosophy: Systems that evolve with advancing technologies.
+###### How does Cinespa differ from other home tech companies based on its quality?
 
 ###### 
 
@@ -484,7 +444,7 @@ Client Query: “What does Cinespa do?”
 
 ######     Explain how to solve this math problem:
 
-###### &nbsp;	Find the sum of the infinite geometric series with first term 5 and common ratio 2/3. 
+######  	Find the sum of the infinite geometric series with first term 5 and common ratio 2/3.
 
 
 
@@ -494,13 +454,13 @@ Client Query: “What does Cinespa do?”
 
 ##### 34\. ReAct Framework
 
-###### &nbsp;	- Thought: I need to find common reasons for frequent headaches.
+######  	- Thought: I need to find common reasons for frequent headaches.
 
-###### &nbsp;	- Action: Search for causes of frequent headaches.
+######  	- Action: Search for causes of frequent headaches.
 
-###### &nbsp;	- Observation: Common causes include stress, dehydration, lack of sleep, and eye strain.
+######  	- Observation: Common causes include stress, dehydration, lack of sleep, and eye strain.
 
-###### &nbsp;	- Answer: Frequent headaches are often caused by stress, dehydration, lack of sleep, or eye strain.
+######  	- Answer: Frequent headaches are often caused by stress, dehydration, lack of sleep, or eye strain.
 
 
 
@@ -532,7 +492,7 @@ Client Query: “What does Cinespa do?”
 
 ##### 38\. Prompt Grading Rubric
 
-###### &nbsp;	Cinespa creates smart homes with luxury tech like voice-controlled lights and cinema rooms
+######  	Cinespa creates smart homes with luxury tech like voice-controlled lights and cinema rooms
 
 ######     Rate this output based on the following criteria (1–5):
 
@@ -574,7 +534,7 @@ Client Query: “What does Cinespa do?”
 
 ######    	Designation :Project Manager at Cinespa.
 
-###### &nbsp;	Experience: Has 2 years experience in managing luxury home automation projects from concept to delivery, ensuring client satisfaction and adherence to Cinespa’s high standards.
+######  	Experience: Has 2 years experience in managing luxury home automation projects from concept to delivery, ensuring client satisfaction and adherence to Cinespa’s high standards.
 
 
 
@@ -590,7 +550,7 @@ Client Query: “What does Cinespa do?”
 
 ##### 43\. Opinion Writing
 
-###### &nbsp;	Write an opinion piece on Genelec Monitors. Use persuasive arguments and examples.
+######  	Write an opinion piece on Genelec Monitors. Use persuasive arguments and examples.
 
 ##### 
 
@@ -646,5 +606,5 @@ Client Query: “What does Cinespa do?”
 
 ##### 50\. Universal Prompt Builder
 
-###### &nbsp;	You are a Cinespa Sales Executive who Explain home automation to a homeowner to make their likestyle simple and luxury by controlling lights, music, and security with one app.Format as Bullet points highlighting ease, safety, and elegance.
+######  	You are a Cinespa Sales Executive who Explain home automation to a homeowner to make their likestyle simple and luxury by controlling lights, music, and security with one app.Format as Bullet points highlighting ease, safety, and elegance.
 
